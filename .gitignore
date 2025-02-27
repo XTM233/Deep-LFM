@@ -1,0 +1,6 @@
+bin/*
+experiment_outputs/*
+*.pyc
+node/*
+*.png
+.DS_Store
